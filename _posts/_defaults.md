@@ -1,12 +1,11 @@
 ---
-title:
-categories:
-date:
-featured_image:
+categories: 
+featured_image: 
 recipe:
-  servings:
-  prep:
-  cook:
-  ingredients_markdown:
-  directions_markdown:
+  servings: 
+  prep: 
+  cook: 
+  ingredients_markdown: 
+  directions_markdown: 
 ---
+
