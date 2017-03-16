@@ -1,5 +1,5 @@
 ---
-title: Treat Template
+title: VG Venkat
 timezone: UTC
 collections:
   posts:
@@ -26,7 +26,7 @@ defaults:
   values:
     layout: default
     push_sidebar_down: true
-url: https://spring-bat.cloudvent.net/
+url: https://vgvenkat.com
 baseurl: 
 google_analytics_key: 
 newsletter_action: "//your-mailchimp-action-url.com"
