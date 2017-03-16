@@ -1,8 +1,8 @@
 ---
-date: 2017-01-05
 title: Gingernut Cookies
+date: 2017-01-05 00:00:00 Z
 categories:
-  - Cookies
+- Cookies
 featured_image: https://source.unsplash.com/dZKiXR9FYcM/1920x1200
 recipe:
   servings: 60 cookies
@@ -23,6 +23,7 @@ recipe:
     5. Bake at 350°F for 15 minutes.
     6. Cool on a wire rack and keep in an airtight container once cold.
 ---
+
 These are traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result.
 
 ![Cookie](https://source.unsplash.com/euGck1ifvp0)
